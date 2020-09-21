@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 
 @SpringBootApplication
 public class ApirestApplication {
-
+//teste githu b
     public static void main(String[] args) {
         Logger logger = Logger.getLogger("main");
         SpringApplication.run(ApirestApplication.class, args);
